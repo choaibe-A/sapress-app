@@ -1,1 +1,5 @@
-streamlit
+streamlit>=1.36
+pandas>=2.2
+altair>=5.3
+psycopg[binary]>=3.2
+python-dotenv
