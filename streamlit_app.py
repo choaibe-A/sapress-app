@@ -1,4 +1,3 @@
-import streamlit as st
 
 from __future__ import annotations
 
@@ -7,6 +6,7 @@ from datetime import date
 import altair as alt
 import pandas as pd
 import database
+import streamlit as st
 
 
 VAT_RATE = 0.20
